@@ -40,11 +40,11 @@ const Home = (props) => {
                   <span className="home-date3 date">dd-mm</span>
                 </div>
                 <div className="home-villes">
-                  <div data-type="ButtonRoom" className="home-tile1">
+                  <div data-type="ButtonRoom" className="home-tile1 button">
                     <h1 className="home-name1">name1</h1>
                     <span className="home-description1">description1</span>
                   </div>
-                  <div data-type="ClosePageRoom" className="home-tile2">
+                  <div data-type="ClosePageRoom" className="home-tile2 button">
                     <h1 className="home-name2">name2</h1>
                   </div>
                   <div className="home-tile3">
